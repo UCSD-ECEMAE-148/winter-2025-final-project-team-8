@@ -17,7 +17,6 @@ F710 Logitech joystick controller
 # References:
 https://github.com/ForzaETH/race_stack/blob/main/README.md
 and associated repo's that ForzaETH used...
-
 @article{baumann2024forzaeth,
   title={ForzaETH Race Stack—Scaled Autonomous Head-to-Head Racing on Fully Commercial Off-the-Shelf Hardware},
   author={Baumann, Nicolas and Ghignone, Edoardo and K{\"u}hne, Jonas and Bastuck, Niklas and Becker, Jonathan and Imholz, Nadine and Kr{\"a}nzlin, Tobias and Lim, Tian Yi and L{\"o}tscher, Michael and Schwarzenbach, Luca and others},
@@ -25,3 +24,8 @@ and associated repo's that ForzaETH used...
   year={2024},
   publisher={Wiley Online Library}
 }
+
+A Comparison of Modern General-Purpose Visual SLAM Approaches
+https://arxiv.org/pdf/2107.07589
+
+
