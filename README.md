@@ -11,10 +11,15 @@
 8. [Hardware](#hardware)
 9. [Gantt Chart](#gantt-chart)
 10. [Course Deliverables](#course-deliverable)
-11. [References](#references)
-12. [Contacts](#contacts)
+11. [Project Reproduction](#project-reproduction)
+12. [References](#references)
+13. [Contacts](#contacts)
 
 ## Team Members
+Aaron Kim (ECE)
+Marco Krause (ECE)
+Andrew Vo (MAE)
+Giovanni Torres (MAE)
 
 # Abstract
 Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
@@ -30,12 +35,21 @@ Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VE
 # Software
 
 # Hardware:
+## Standard
 Traxxas Chassis,
 Jetson Nano,
 Sparkfun Artemis IMU,
 Flipsky VESC 4.12,
 LD06 Lidar,
 F710 Logitech joystick controller
+## Custom
+### Base Plate
+
+### Camera Mount
+
+### Lidar Mount
+
+### GPS Mount
 
 # Gantt Chart
 
@@ -56,4 +70,7 @@ A Comparison of Modern General-Purpose Visual SLAM Approaches
 https://arxiv.org/pdf/2107.07589
 
 # Contacts
-
+Aaron Kim - 
+Marco Krause - 
+Andrew Vo - 
+Giovanni Torres - 
