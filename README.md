@@ -14,7 +14,7 @@
 11. _References_
 12. _Contacts_
 
-# Team Members
+## Team Members
 
 # Abstract
 Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
