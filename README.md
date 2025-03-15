@@ -26,6 +26,7 @@ image of the car
 - Marco Krause (ECE)
 - Andrew Vo (MAE)
 - Giovanni Torres (MAE)
+<hr>
 
 # Abstract
 Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver. The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
