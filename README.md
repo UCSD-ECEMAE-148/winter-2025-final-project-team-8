@@ -30,13 +30,19 @@
 - Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs.
 - Creating a optimal trajectory raceline with an algorithm and following the path using Pure - Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
 
-# Accomplishments
+# Accomplishments 
+- Lidar Integration
+- SLAM Integration
 
 # Challenges
-
+- Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch
 # Final Project Video
 
 # Software
+- Lidar Node
+- ForzaETH "rack_stack" in ROS environment
+- Forza docker container on ROS1
+- Modified node for VESC
 
 # Hardware:
 ## Standard
