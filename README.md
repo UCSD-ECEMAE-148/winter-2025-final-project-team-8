@@ -1,6 +1,8 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
 ![image](https://github.com/user-attachments/assets/f92d21c1-b05b-4499-a503-8d0ad4673dce)
-                                          Team 8
+
+## Team 8 - Winter 2025
+
 # Table of Content
 1. [Team Members](#team-members).
 2. [Abstract](#abstract)
