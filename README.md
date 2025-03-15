@@ -1,5 +1,19 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
 
+# Table of Content
+1. Team Memebers
+2. Abstract
+3. What We Promised
+4. Accomplishments
+5. Challenges
+6. Final Project Video
+7. Software
+8. Hardware
+9. Gantt Chart
+10. Course Deliverables
+11. Acknowledgements
+12. Contacts
+
 # Description
 Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
 
