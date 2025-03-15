@@ -65,16 +65,16 @@ F710 Logitech joystick controller
 
 # Course Deliverable
 Links to class deliverables:
-- DonkeyCar Reinforcement Laps: [Link](#https://www.youtube.com/shorts/jBdtot5aemE)
-- OpenCV Laps: [link](#https://www.youtube.com/watch?si=heQWVJycjnkgMijZ&v=hAXUiicVj78&feature=youtu.be)
-- GPS Laps: [Link](#https://www.youtube.com/watch?v=ry6CfRk-CJk&ab_channel=AaronKim)
-- Roboflow Model: [Link](#https://www.youtube.com/watch?v=dXgY9VMILmM&ab_channel=GiovanniTorres)
+- DonkeyCar Reinforcement Laps: [Link](https://www.youtube.com/shorts/jBdtot5aemE)
+- OpenCV Laps: [link](https://www.youtube.com/watch?si=heQWVJycjnkgMijZ&v=hAXUiicVj78&feature=youtu.be)
+- GPS Laps: [Link](https://www.youtube.com/watch?v=ry6CfRk-CJk&ab_channel=AaronKim)
+- Roboflow Model: [Link](https://www.youtube.com/watch?v=dXgY9VMILmM&ab_channel=GiovanniTorres)
 Team's Final Project Progress Report
-- Week 8,9,10: [Link](#https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
+- Week 8,9,10: [Link](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 
 # References:
-ForzaETH Stack: [Link](#https://github.com/ForzaETH/race_stack/blob/main/README.md)
+ForzaETH Stack: [Link](https://github.com/ForzaETH/race_stack/blob/main/README.md)
 and associated repo's that ForzaETH used...
 @article{baumann2024forzaeth,
   title={ForzaETH Race Stack—Scaled Autonomous Head-to-Head Racing on Fully Commercial Off-the-Shelf Hardware},
@@ -84,7 +84,7 @@ and associated repo's that ForzaETH used...
   publisher={Wiley Online Library}
 }
 
-[A Comparison of Modern General-Purpose Visual SLAM Approaches](#https://arxiv.org/pdf/2107.07589)
+[A Comparison of Modern General-Purpose Visual SLAM Approaches](https://arxiv.org/pdf/2107.07589)
 
 README.md Format, reference to [links to winston page]
 # Contacts
