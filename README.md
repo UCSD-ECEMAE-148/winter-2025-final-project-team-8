@@ -1,4 +1,5 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
+![image](https://github.com/user-attachments/assets/f92d21c1-b05b-4499-a503-8d0ad4673dce)
 
 # Table of Content
 1. [Team Members](#team-members).
@@ -15,7 +16,7 @@
 12. [References](#references)
 13. [Contacts](#contacts)
 
-## Team Members
+# Team Members
 Aaron Kim (ECE)
 Marco Krause (ECE)
 Andrew Vo (MAE)
