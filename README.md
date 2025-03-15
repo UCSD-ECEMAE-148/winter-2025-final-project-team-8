@@ -52,7 +52,6 @@ Going fast have always been an important topic. With recently technology advance
 # Final Project Video
 
 <hr>
-
 # Software
 - Lidar Node
 - ForzaETH "rack_stack" in ROS environment
