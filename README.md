@@ -69,6 +69,7 @@ and associated repo's that ForzaETH used...
 A Comparison of Modern General-Purpose Visual SLAM Approaches
 https://arxiv.org/pdf/2107.07589
 
+README.md Format, reference to [links to winston page]
 # Contacts
 Aaron Kim - 
 Marco Krause - 
