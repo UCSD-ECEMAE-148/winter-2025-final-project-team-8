@@ -2,17 +2,17 @@
 
 # Table of Content
 1. [Team Members](#team-members).
-2. _Abstract_
-3. _What We Promised_
-4. _Accomplishments_
-5. _Challenges_
-6. _Final Project Video_
-7. _Software_
-8. _Hardware_
-9. _Gantt Chart_
-10. _Course Deliverables_
-11. _References_
-12. _Contacts_
+2. [Abstract](#abstract)
+3. [What We Promised](#what-we-promised)
+4. [Accomplishments](#accomplishments)
+5. [Challenges](#challenges)
+6. [Final Project Video](#final-project-video)
+7. [Software](#software)
+8. [Hardware](#hardware)
+9. [Gantt Chart](#gantt-chart)
+10. [Course Deliverables](#course-deliverable)
+11. [References](#references)
+12. [Contacts](#contacts)
 
 ## Team Members
 
