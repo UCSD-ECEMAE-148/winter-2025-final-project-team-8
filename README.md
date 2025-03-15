@@ -1,6 +1,6 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
 ![image](https://github.com/user-attachments/assets/f92d21c1-b05b-4499-a503-8d0ad4673dce)
-
+                                          Team 8
 # Table of Content
 1. [Team Members](#team-members).
 2. [Abstract](#abstract)
@@ -23,9 +23,12 @@
 - Giovanni Torres (MAE)
 
 # Abstract
-- Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. - Creating a optimal trajectory raceline with an algorithm and following the path using Pure - Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
+  Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver
+  The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
 
 # What We Promised
+- Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs.
+- Creating a optimal trajectory raceline with an algorithm and following the path using Pure - Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
 
 # Accomplishments
 
@@ -47,12 +50,14 @@ Sparkfun Artemis IMU
 Flipsky VESC 4.12
 LD06 Lidar
 F710 Logitech joystick controller
-- Car Wiring Diagram
 
+- Car Wiring Diagram
+![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
 
 ## Custom
 ### Base Plate
-*insert cad*
+![image](https://github.com/user-attachments/assets/5c815773-6b8f-408f-9ff9-6ff27c4473b8)
+
 ### Camera Mount
 *insert cad*
 ### Lidar Mount
@@ -66,7 +71,7 @@ F710 Logitech joystick controller
 # Course Deliverable
 Links to class deliverables:
 - DonkeyCar Reinforcement Laps: [Link](https://www.youtube.com/shorts/jBdtot5aemE)
-- OpenCV Laps: [link](https://www.youtube.com/watch?si=heQWVJycjnkgMijZ&v=hAXUiicVj78&feature=youtu.be)
+- OpenCV Laps: [Link](https://www.youtube.com/watch?si=heQWVJycjnkgMijZ&v=hAXUiicVj78&feature=youtu.be)
 - GPS Laps: [Link](https://www.youtube.com/watch?v=ry6CfRk-CJk&ab_channel=AaronKim)
 - Roboflow Model: [Link](https://www.youtube.com/watch?v=dXgY9VMILmM&ab_channel=GiovanniTorres)
 Team's Final Project Progress Report
@@ -74,8 +79,8 @@ Team's Final Project Progress Report
 
 
 # References:
-ForzaETH Stack: [Link](https://github.com/ForzaETH/race_stack/blob/main/README.md)
-and associated repo's that ForzaETH used...
+ForzaETH Stack: [Link](https://github.com/ForzaETH/race_stack/blob/main/README.md) and associated repo's that ForzaETH used
+
 @article{baumann2024forzaeth,
   title={ForzaETH Race Stack—Scaled Autonomous Head-to-Head Racing on Fully Commercial Off-the-Shelf Hardware},
   author={Baumann, Nicolas and Ghignone, Edoardo and K{\"u}hne, Jonas and Bastuck, Niklas and Becker, Jonathan and Imholz, Nadine and Kr{\"a}nzlin, Tobias and Lim, Tian Yi and L{\"o}tscher, Michael and Schwarzenbach, Luca and others},
@@ -86,7 +91,8 @@ and associated repo's that ForzaETH used...
 
 [A Comparison of Modern General-Purpose Visual SLAM Approaches](https://arxiv.org/pdf/2107.07589)
 
-README.md Format, reference to [links to winston page]
+README.md Format, reference to [winter-2024-final-project-team-7](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-7?tab=readme-ov-file#slam-simultaneous-localization-and-mapping)
+
 # Contacts
 Aaron Kim - 
 Marco Krause - 
