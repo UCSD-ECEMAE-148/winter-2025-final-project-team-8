@@ -1,24 +1,35 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
 
 # Table of Content
-1. Team Memebers
-2. Abstract
-3. What We Promised
-4. Accomplishments
-5. Challenges
-6. Final Project Video
-7. Software
-8. Hardware
-9. Gantt Chart
-10. Course Deliverables
-11. Acknowledgements
-12. Contacts
+1. _Team Members_
+2. _Abstract_
+3. _What We Promised_
+4. _Accomplishments_
+5. _Challenges_
+6. _Final Project Video_
+7. _Software_
+8. _Hardware_
+9. _Gantt Chart_
+10. _Course Deliverables_
+11. _References_
+12. _Contacts_
 
-# Description
+# Team Members
+
+# Abstract
 Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
 
+# What We Promised
 
-# Hardware Using:
+# Accomplishments
+
+# Challenges
+
+# Final Project Video
+
+# Software
+
+# Hardware:
 Traxxas Chassis,
 Jetson Nano,
 Sparkfun Artemis IMU,
@@ -26,7 +37,9 @@ Flipsky VESC 4.12,
 LD06 Lidar,
 F710 Logitech joystick controller
 
+# Gantt Chart
 
+# Course Deliverable
 
 # References:
 https://github.com/ForzaETH/race_stack/blob/main/README.md
@@ -42,4 +55,5 @@ and associated repo's that ForzaETH used...
 A Comparison of Modern General-Purpose Visual SLAM Approaches
 https://arxiv.org/pdf/2107.07589
 
+# Contacts
 
