@@ -80,8 +80,8 @@ Links to class deliverables:
 - OpenCV Laps: [Link](https://www.youtube.com/watch?si=heQWVJycjnkgMijZ&v=hAXUiicVj78&feature=youtu.be)
 - GPS Laps: [Link](https://www.youtube.com/watch?v=ry6CfRk-CJk&ab_channel=AaronKim)
 - Roboflow Model: [Link](https://www.youtube.com/watch?v=dXgY9VMILmM&ab_channel=GiovanniTorres)
-Team's Final Project Progress Report
-- Week 8,9,10: [Link](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
+- Team's Final Project Progress Report
+    Week 8,9,10: [Link](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 
 # References:
