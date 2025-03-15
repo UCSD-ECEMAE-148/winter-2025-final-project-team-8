@@ -1,7 +1,7 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
 
 # Table of Content
-1. #Team Members
+1. Team Members (#Team Members)
 2. _Abstract_
 3. _What We Promised_
 4. _Accomplishments_
