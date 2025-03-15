@@ -23,8 +23,7 @@
 - Giovanni Torres (MAE)
 
 # Abstract
-  Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver
-  The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
+Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver. The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
 
 # What We Promised
 - Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs.
@@ -35,7 +34,9 @@
 - SLAM Integration
 
 # Challenges
-- Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch
+- Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch.
+- Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM:
+
 # Final Project Video
 
 # Software
@@ -47,8 +48,8 @@
 # Hardware:
 ## Standard
 - Traxxas Chassis
-  -  steering servo
-  -  sensored brushless DC motor
+  -  Steering servo
+  -  Sensored brushless DC motor
   -  DC-DC Converter
   -  4-cell Lipo Battery
 Jetson Nano
