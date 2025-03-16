@@ -24,10 +24,10 @@ image of the car
 <hr>
 
 # Team Members
-- Aaron Kim (ECE)
-- Marco Krause (ECE)
-- Andrew Vo (MAE)
-- Giovanni Torres (MAE)
+* Aaron Kim (ECE)
+* Marco Krause (ECE)
+* Andrew Vo (MAE)
+* Giovanni Torres (MAE)
 <hr>
 
 # Abstract
@@ -40,13 +40,14 @@ Going fast have always been an important topic. With recently technology advance
 <hr>
 
 # Accomplishments 
-- Lidar Integration
-- SLAM Integration
+- Our daily progress log can be fine [here](https://docs.google.com/document/d/1Jbvnwe5eSdBmKXfEPnErvxRPAoAEU4X7f6TuEhFGy84/edit?usp=sharing)
+
 <hr>
 
 # Challenges
 - Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch.
-- Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM:
+- Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
+- 
 <hr
   
 # Final Project Video
