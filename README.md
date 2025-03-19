@@ -49,9 +49,9 @@ Going fast have always been an important topic. With recently technology advance
 - Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
 - With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself, then car would be able to optimized the track
 
-<hr
+<hr>
   
-## Project Video
+# Project Video
 - What we achieved, a video demonstration can be found [here](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
 
 <hr>
