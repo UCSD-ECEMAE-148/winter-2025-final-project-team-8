@@ -47,33 +47,32 @@ Going fast have always been an important topic. With recently technology advance
 # Challenges
 - Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch.
 - Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
+- With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself
 - 
 <hr
   
 # Final Project Video
+What we achieved, a video demonstration can be found [here](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
 
 <hr>
+
 # Software
 - Lidar Node
 - ForzaETH "rack_stack" in ROS environment
 - Forza docker container on ROS1
 - Modified node for VESC
 
+
+<hr>
+
 # Hardware:
 ## Standard
-- Traxxas Chassis
-  -  Steering servo
-  -  Sensored brushless DC motor
-  -  DC-DC Converter
-  -  4-cell Lipo Battery
-Jetson Nano
-Sparkfun Artemis IMU
-Flipsky VESC 4.12
-LD06 Lidar
-F710 Logitech joystick controller
-
+We followed the standard MAE/ECE 148 car setup guideline and parts list, the only exception we made is using a OAK-D Pro camera with an built-in IMU.
+- The list of [parts](https://docs.google.com/file/d/1g7Q1cRvhreIL_nPo44IU39hTb_rMGENF/edit?filetype=msword)
 - Car Wiring Diagram
 ![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
+- VESC set up [here](https://roboracer.ai/build)
+More detail about individual package can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 ## Custom
 ### Base Plate
