@@ -47,8 +47,8 @@ Going fast have always been an important topic. With recently technology advance
 # Challenges
 - Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch.
 - Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
-- With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself
-- 
+- With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself, then car would be able to optimized the track
+
 <hr
   
 # Final Project Video
@@ -71,7 +71,7 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 - Car Wiring Diagram
 ![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
 - VESC set up [here](https://roboracer.ai/build)
-More detail about individual package can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
+- More detail about individual package can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 ## Custom
 ### Base Plate
