@@ -12,7 +12,7 @@ image of the car
 3. [What We Promised](#what-we-promised)
 4. [Accomplishments](#accomplishments)
 5. [Challenges](#challenges)
-6. [Final Project Video](#final-project-video)
+6. [Project Video](#project-video)
 7. [Software](#software)
 8. [Hardware](#hardware)
 9. [Gantt Chart](#gantt-chart)
@@ -51,7 +51,7 @@ Going fast have always been an important topic. With recently technology advance
 
 <hr
   
-# FinalProjectVideo
+# Project Video
 - What we achieved, a video demonstration can be found [here](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
 
 <hr>
