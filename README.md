@@ -48,7 +48,9 @@ Going fast have always been an important topic. With recently technology advance
 <hr>
 
 # Accomplishments 
-- Our daily progress log can be fine [here](https://docs.google.com/document/d/1Jbvnwe5eSdBmKXfEPnErvxRPAoAEU4X7f6TuEhFGy84/edit?usp=sharing)
+- Our daily progress log can be found [here](https://docs.google.com/document/d/1Jbvnwe5eSdBmKXfEPnErvxRPAoAEU4X7f6TuEhFGy84/edit?usp=sharing)
+- Our Final Presentaion can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=drive_link)
+
 
 <hr>
 
