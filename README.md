@@ -3,6 +3,7 @@
 ### <div align = "center"> MAE 148 Final Project </div>
 #### <div align = 'center'> Team 8 - Winter 2025 </div>
 <div align = "center"> 
+
 ![image](https://github.com/user-attachments/assets/c817c29c-3b0f-4314-b9cd-84079441b218)
 </div>
 
@@ -41,6 +42,8 @@ Going fast have always been an important topic. With recently technology advance
 ![image](https://github.com/user-attachments/assets/b398c61d-68ae-4752-8daa-eeb8c0e006f3)
 ## State Estimation Architecture of ForzaETH
 ![image](https://github.com/user-attachments/assets/d23ed29f-4736-4534-a119-792c1fae7f37)
+## Controller Architecture of ForzaETH
+![image](https://github.com/user-attachments/assets/ee664e8b-b0fe-4dce-b36c-28c380bfa1a8)
 
 <hr>
 
@@ -54,10 +57,21 @@ Going fast have always been an important topic. With recently technology advance
 - Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
 - With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself, then car would be able to optimized the track
 
+Pivoted: 
+- As a team, we decided to pivot away from V-Slam onto Lidar based Slam, here are a few reason:
+- V-Slam → requires heavy computational power and lacks support from Roboracer (Need to transfer to Jetson Xavier)
+- Lidar SLAM → Lower computational requirements, better ROS 1 support
+- On the Jetson Nano, it would have been required to build our own package, and is out of the scope for the class
+
 <hr>
   
 # Project Video
 - What we achieved, a video demonstration can be found [here](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
+- In the end, we did not completely implement lidar based slam into ForzaETH:
+-   But we managed to achieve
+-     Successfully integrated LD06 lidar to replace the Hokuyo lidar
+-     Mapped the joystick input for Logitech F710
+
 
 <hr>
 
