@@ -2,7 +2,8 @@
 ![image](https://github.com/user-attachments/assets/f92d21c1-b05b-4499-a503-8d0ad4673dce) 
 ### <div align = "center"> MAE 148 Final Project </div>
 #### <div align = 'center'> Team 8 - Winter 2025 </div>
-<div align = "center"> ![image](https://github.com/user-attachments/assets/c817c29c-3b0f-4314-b9cd-84079441b218)
+<div align = "center"> 
+  ![image](https://github.com/user-attachments/assets/c817c29c-3b0f-4314-b9cd-84079441b218)
 </div>
 
 # Table of Content
