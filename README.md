@@ -2,9 +2,7 @@
 ![image](https://github.com/user-attachments/assets/f92d21c1-b05b-4499-a503-8d0ad4673dce) 
 ### <div align = "center"> MAE 148 Final Project </div>
 #### <div align = 'center'> Team 8 - Winter 2025 </div>
-<div align = "center">
-  
-![image](https://github.com/user-attachments/assets/c817c29c-3b0f-4314-b9cd-84079441b218)
+<div align = "center"> ![image](https://github.com/user-attachments/assets/c817c29c-3b0f-4314-b9cd-84079441b218)
 </div>
 
 # Table of Content
@@ -36,8 +34,13 @@ Going fast have always been an important topic. With recently technology advance
 <hr>
 
 # What We Promised
-- Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs.
-- Creating a optimal trajectory raceline with an algorithm and following the path using Pure - Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
+- Optimizing Vehicle Racing Performance using Lidar SLAM and EKF with IMU and VESC outputs.
+- Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
+## System Architecture of ForzaETH stack
+![image](https://github.com/user-attachments/assets/b398c61d-68ae-4752-8daa-eeb8c0e006f3)
+## State Estimation Architecture of ForzaETH
+![image](https://github.com/user-attachments/assets/d23ed29f-4736-4534-a119-792c1fae7f37)
+
 <hr>
 
 # Accomplishments 
