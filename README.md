@@ -111,10 +111,10 @@ README.md Format, reference to [winter-2024-final-project-team-7](https://github
 <hr>
 
 # Contacts
-Aaron Kim - 
-Marco Krause - 
+Aaron Kim - [Email1](aak003@ucsd.edu),[personal email] (aaaronikin@gmail.com)
+Marco Krause - [Email](m1krause@ucsd.edu)
 Andrew Vo - [LinkedIn](www.linkedin.com/in/andrewvo1504)
-Giovanni Torres - 
+Giovanni Torres - [Email](gitorres@ucsd.edu)
 
 # Images and Videos
 Google Drive: [Link](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
