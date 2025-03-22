@@ -99,11 +99,14 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 ![image](https://github.com/user-attachments/assets/5c815773-6b8f-408f-9ff9-6ff27c4473b8)
 
 ### Camera Mount
-*insert cad*
+![image](https://github.com/user-attachments/assets/dbd4e3b4-c3f1-4f04-a926-7d310ee3d7d8)
+
 ### Lidar Mount
-*insert cad*
-### GPS Mount
-*insert cad*
+![image](https://github.com/user-attachments/assets/30efd033-da78-45b1-b800-fb28c57b437f)
+
+### Electronics plate with GPS Mount
+![image](https://github.com/user-attachments/assets/d3323bd6-7f4e-436c-bda8-31561a939a50)
+
 
 <hr>
 
