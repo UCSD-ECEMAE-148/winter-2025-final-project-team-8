@@ -32,7 +32,7 @@
 <hr>
 
 # Abstract
-Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver. The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
+Going fast has always been an important topic. With recent technological advancements in autonomous cars, we found the need to go faster... without a driver. The scope of the project is to utilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical training. The car will map out the track layout and will compute the best possible way to get around the track.
 <hr>
 
 # What We Promised
@@ -92,7 +92,7 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 - Car Wiring Diagram
 ![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
 - VESC set up [here](https://roboracer.ai/build)
-- More detail about individual package can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
+- More detail about individual packages can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 ## Custom
 ### Base Plate
@@ -132,7 +132,7 @@ README.md Format, reference to [winter-2024-final-project-team-7](https://github
 <hr>
 
 # Contacts
-Aaron Kim - [Email1](aak003@ucsd.edu) or [personal email](aaaronikin@gmail.com)
+Aaron Kim - [Email](aak003@ucsd.edu) or [personal email](aaaronikin@gmail.com)
 Marco Krause - [Email](m1krause@ucsd.edu)
 Andrew Vo - [LinkedIn](www.linkedin.com/in/andrewvo1504)
 Giovanni Torres - [Email](gitorres@ucsd.edu)
