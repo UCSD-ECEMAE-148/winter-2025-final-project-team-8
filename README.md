@@ -32,12 +32,12 @@
 <hr>
 
 # Abstract
-Going fast have always been an important topic. With recently technology advancement of autonomous car, we found the need to go faster... without a driver. The scope of the project is to ultilize ForzaETH repo and integrating with lidar vision in-order to adapt the car to every track without physical traning. the car will map out the track layout and will compute the best possible way to get around the track.
+Going fast has always been an important topic. With recent technological advancements in autonomous cars, we found the need to go faster... without a driver. The scope of the project is to utilize the ForzaETH repo and integrate it with lidar vision in order to adapt the car to every track without physical training. The car will map out the track layout and compute the best possible way to get around the track.
 <hr>
 
 # What We Promised
 - Optimizing Vehicle Racing Performance using Lidar SLAM and EKF with IMU and VESC outputs.
-- Creating a optimal trajectory raceline with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
+- Creating an optimal trajectory race line with an algorithm and following the path using Pure Pursuit/Model and Acceleration-based Pursuit controllers. Based on ForzaETH repo.
 ## System Architecture of ForzaETH stack
 ![image](https://github.com/user-attachments/assets/b398c61d-68ae-4752-8daa-eeb8c0e006f3)
 ## State Estimation Architecture of ForzaETH
@@ -49,18 +49,18 @@ Going fast have always been an important topic. With recently technology advance
 
 # Accomplishments 
 - Our Daily Progress Log can be found [here](https://docs.google.com/document/d/1Jbvnwe5eSdBmKXfEPnErvxRPAoAEU4X7f6TuEhFGy84/edit?usp=sharing)
-- Our Final Presentaion can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=drive_link)
+- Our Final Presentation can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=drive_link)
 
 
 <hr>
 
 # Challenges
-- Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, would take up a lot of time to build from scratch.
-- Research into V-SLAM were done, there are a few alternative method to implement this with V-SLAM but that was out of the scope for the project.
-- With the time available, we couldn't implemnt self mapping of the course, that could be a future improvement of the project where you can set the car on a random track then have it mapped out by itself, then car would be able to optimized the track
+- Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, which would take up a lot of time to build from scratch.
+- Research into V-SLAM was done, there are a few alternative methods to implement this with V-SLAM but that was out of the scope of the project.
+- With the time available, we couldn't implement self-mapping of the course, that could be a future improvement of the project where you can set the car on a random track and then have it mapped out by itself, then the car would be able to optimize the track
 
 Pivoted: 
-- As a team, we decided to pivot away from V-Slam onto Lidar based Slam, here are a few reason:
+- As a team, we decided to pivot away from V-Slam onto Lidar based Slam, here are a few reasons:
 - V-Slam → requires heavy computational power and lacks support from Roboracer (Need to transfer to Jetson Xavier)
 - Lidar SLAM → Lower computational requirements, better ROS 1 support
 - On the Jetson Nano, it would have been required to build our own package, and is out of the scope for the class
@@ -87,12 +87,12 @@ Pivoted:
 
 # Hardware:
 ## Standard
-We followed the standard MAE/ECE 148 car setup guideline and parts list, the only exception we made is using a OAK-D Pro camera with an built-in IMU.
+We followed the standard MAE/ECE 148 car setup guideline and parts list, the only exception we made is using an OAK-D Pro camera with an built-in IMU.
 - The list of [parts](https://docs.google.com/file/d/1g7Q1cRvhreIL_nPo44IU39hTb_rMGENF/edit?filetype=msword)
 - Car Wiring Diagram
 ![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
 - VESC set up [here](https://roboracer.ai/build)
-- More detail about individual package can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
+- More detail about individual packages can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 ## Custom Parts
 ### Base Plate
@@ -137,7 +137,7 @@ README.md Format, reference to [winter-2024-final-project-team-7](https://github
 <hr>
 
 # Contacts
-Aaron Kim - [Email1](aak003@ucsd.edu) or [personal email](aaaronikin@gmail.com)
+Aaron Kim - [Email](aak003@ucsd.edu) or [personal email](aaaronikin@gmail.com)
 Marco Krause - [Email](m1krause@ucsd.edu)
 Andrew Vo - [LinkedIn](www.linkedin.com/in/andrewvo1504)
 Giovanni Torres - [Email](gitorres@ucsd.edu)
