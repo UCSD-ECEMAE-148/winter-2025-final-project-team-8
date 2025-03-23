@@ -97,7 +97,7 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 - The list of [parts](https://docs.google.com/file/d/1g7Q1cRvhreIL_nPo44IU39hTb_rMGENF/edit?filetype=msword)
 - Car Wiring Diagram
 ![image](https://github.com/user-attachments/assets/518f93cc-00a1-46ad-82b5-f69ea34944a7)
-- VESC set up [here]([https://roboracer.ai/build](https://f1tenth.readthedocs.io/en/foxy_test/getting_started/firmware/firmware_vesc.html#))
+- VESC set up [here](https://f1tenth.readthedocs.io/en/foxy_test/getting_started/firmware/firmware_vesc.html#))
 - More detail about individual packages can be found [here](https://docs.google.com/presentation/d/1jDzgPcM4uLSq9gf9zOrWzeR1uJlb5yxIsBrtGc7jHMk/edit?usp=sharing)
 
 ## Custom Parts
