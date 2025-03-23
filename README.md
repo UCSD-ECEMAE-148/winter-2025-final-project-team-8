@@ -67,12 +67,18 @@ Pivoted:
 
 <hr>
   
-# Project Video
+## Project Video
 - What we achieved, a video demonstration can be found [here](https://drive.google.com/drive/folders/15zS9xfFcYgYLzARoz2ZrUlHNW0CQgAFX?usp=drive_link)
 - In the end, we did not completely implement lidar based slam into ForzaETH:
 -   But we managed to achieve
 -     Successfully integrated LD06 lidar to replace the Hokuyo lidar
 -     Mapped the joystick input for Logitech F710
+
+# Lidar mapping 
+
+![image](https://github.com/user-attachments/assets/347e0a31-b098-48c6-9a85-2c3a6f821fe2)
+
+![image](https://github.com/user-attachments/assets/b15dff39-f496-44d1-b925-0a30b9961316)
 
 
 <hr>
