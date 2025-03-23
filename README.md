@@ -112,6 +112,7 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 
 <hr>
 ## Car Assembly
+
 ![IMG_2527](https://github.com/user-attachments/assets/c5d4ca29-fa23-45b9-b096-e0ce5fa76a2b)
 
 ![IMG_2523](https://github.com/user-attachments/assets/cdf08aab-d681-4568-8fb6-68e59f9bbc3a)
