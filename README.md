@@ -107,10 +107,11 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 ### Electronics plate with GPS Mount
 ![image](https://github.com/user-attachments/assets/d3323bd6-7f4e-436c-bda8-31561a939a50)
 
-## Complete Assembly of custom parts
+### Complete Assembly of custom parts
 ![image](https://github.com/user-attachments/assets/5d800a3f-e86f-449b-98de-87af960114d2)
 
 <hr>
+
 ## Car Assembly
 
 ![IMG_2523](https://github.com/user-attachments/assets/cdf08aab-d681-4568-8fb6-68e59f9bbc3a)
