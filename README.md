@@ -74,7 +74,7 @@ Pivoted:
 -     Successfully integrated LD06 lidar to replace the Hokuyo lidar
 -     Mapped the joystick input for Logitech F710
 
-# Lidar mapping 
+### Lidar mapping 
 
 ![image](https://github.com/user-attachments/assets/347e0a31-b098-48c6-9a85-2c3a6f821fe2)
 
