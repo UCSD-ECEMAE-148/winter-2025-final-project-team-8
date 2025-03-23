@@ -145,6 +145,8 @@ ForzaETH Stack: [Link](https://github.com/ForzaETH/race_stack/blob/main/README.m
 
 ForzaETH_racestack: [Link](https://arxiv.org/html/2403.11784v2#S8)
 
+ForzaETH modified repository: https://ucsdcloud-my.sharepoint.com/:u:/g/personal/gitorres_ucsd_edu/EVM4-lGxJ-tLg2Q5xX5ww0UBWc7MIvYR0MiR77OfG2wwEw?e=C1G6xT
+
 [A Comparison of Modern General-Purpose Visual SLAM Approaches](https://arxiv.org/pdf/2107.07589)
 
 README.md Format, reference to [winter-2024-final-project-team-7](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-7?tab=readme-ov-file#slam-simultaneous-localization-and-mapping)
