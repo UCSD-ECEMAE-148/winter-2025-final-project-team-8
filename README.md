@@ -113,11 +113,11 @@ We followed the standard MAE/ECE 148 car setup guideline and parts list, the onl
 <hr>
 ## Car Assembly
 
-![IMG_2527](https://github.com/user-attachments/assets/c5d4ca29-fa23-45b9-b096-e0ce5fa76a2b)
-
 ![IMG_2523](https://github.com/user-attachments/assets/cdf08aab-d681-4568-8fb6-68e59f9bbc3a)
 
 ![IMG_2521](https://github.com/user-attachments/assets/5aca8224-3eb9-46f9-bf52-c2bb387584ca)
+
+![IMG_2527](https://github.com/user-attachments/assets/c5d4ca29-fa23-45b9-b096-e0ce5fa76a2b)
 
 # Gantt Chart
 ![image](https://github.com/user-attachments/assets/c405db4b-cbf1-448d-aeb3-88ed590b36e5)
