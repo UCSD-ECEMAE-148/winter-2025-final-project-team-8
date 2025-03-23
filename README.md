@@ -57,10 +57,10 @@ Going fast has always been an important topic. With recent technological advance
 # Challenges
 - Initial project scope was to use V-SLAM to map out the track but V-SLAM is computationally heavy and would require Xavier NX, which would take up a lot of time to build from scratch.
 - Research into V-SLAM was done, there are a few alternative methods to implement this with V-SLAM but that was out of the scope of the project.
-- With the time available, we couldn't implement self-mapping of the course, that could be a future improvement of the project where you can set the car on a random track and then have it mapped out by itself, then the car would be able to optimize the track
+- With the time available, we couldn't implement self-mapping of the course, that could be a future improvement of the project where you can set the car on a random track and then have it autonomously map out the track.
 
 Pivoted: 
-- As a team, we decided to pivot away from V-Slam onto Lidar based Slam, here are a few reasons:
+- As a team, we decided to pivot away from V-Slam and move to Lidar based Slam, here are a few reasons:
 - V-Slam → requires heavy computational power and lacks support from Roboracer (Need to transfer to Jetson Xavier)
 - Lidar SLAM → Lower computational requirements, better ROS 1 support
 - On the Jetson Nano, it would have been required to build our own package, and is out of the scope for the class
